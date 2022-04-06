@@ -157,7 +157,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-		border-bottom: dotted 1px rgba(12, 115, 131, 0.5);
+		border-bottom: dotted 1px white;
 		text-decoration: none;
 		color: inherit;
 	}
@@ -561,27 +561,27 @@ input, select, textarea {
 	}
 
 	::-webkit-input-placeholder {
-		color: rgba(12, 115, 131, 0.5) !important;
+		color: white !important;
 		opacity: 1.0;
 	}
 
 	:-moz-placeholder {
-		color: rgba(12, 115, 131, 0.5) !important;
+		color: white !important;
 		opacity: 1.0;
 	}
 
 	::-moz-placeholder {
-		color: rgba(12, 115, 131, 0.5) !important;
+		color: white !important;
 		opacity: 1.0;
 	}
 
 	:-ms-input-placeholder {
-		color: rgba(12, 115, 131, 0.5) !important;
+		color: white !important;
 		opacity: 1.0;
 	}
 
 	.formerize-placeholder {
-		color: rgba(12, 115, 131, 0.5) !important;
+		color: white !important;
 		opacity: 1.0;
 	}
 
