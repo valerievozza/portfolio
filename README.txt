@@ -1,3 +1,9 @@
+
+
+This is my portfolio website. I adapted an HTML5UP template to make it a little more me. Check out some projects I've been working on & hire me to build your next website!
+
+===========
+
 Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
