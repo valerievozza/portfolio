@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/valerievozza/portfolio/images/preview.png "Portfolio Screenshot")
 
 This is my portfolio website. I adapted an HTML5UP template to make it a little more me. Check out some projects I've been working on & hire me to build your next website!
 
